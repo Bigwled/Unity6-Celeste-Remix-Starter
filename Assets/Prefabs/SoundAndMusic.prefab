@@ -95,7 +95,7 @@ MonoBehaviour:
   audioPlayables:
   - name: 
     trigger: 0
-    soundClip: {fileID: 8300000, guid: e74bd4da10dbf43949da4a88e0ad83de, type: 3}
+    soundClip: {fileID: 8300000, guid: bd810dee03b574840aee573a851ace8c, type: 3}
     hasAlreadyResetExtraOptions: 1
     showExtraOptions: 1
     volume: 20
@@ -104,7 +104,7 @@ MonoBehaviour:
     playOnStart: 1
   - name: Jump
     trigger: 1
-    soundClip: {fileID: 8300000, guid: 6cf9fd729ac824ef2b1a96e839567008, type: 3}
+    soundClip: {fileID: 8300000, guid: d36ff6ce2516ae74ab27b628aa1b69e4, type: 3}
     hasAlreadyResetExtraOptions: 1
     showExtraOptions: 0
     volume: 100
@@ -113,7 +113,7 @@ MonoBehaviour:
     playOnStart: 0
   - name: Dash
     trigger: 3
-    soundClip: {fileID: 8300000, guid: 1166512d0519c4649af8fd7fdf435489, type: 3}
+    soundClip: {fileID: 8300000, guid: 80ee336cd5e0b504f871a92ca933f95a, type: 3}
     hasAlreadyResetExtraOptions: 1
     showExtraOptions: 0
     volume: 100
@@ -122,7 +122,7 @@ MonoBehaviour:
     playOnStart: 0
   - name: Land
     trigger: 2
-    soundClip: {fileID: 8300000, guid: cf299e9719a944f73b3013b88d9982ab, type: 3}
+    soundClip: {fileID: 8300000, guid: e2db726ee720ccf44b14c041231d7839, type: 3}
     hasAlreadyResetExtraOptions: 1
     showExtraOptions: 0
     volume: 100
@@ -131,7 +131,7 @@ MonoBehaviour:
     playOnStart: 0
   - name: Speak
     trigger: 5
-    soundClip: {fileID: 8300000, guid: 3796a563b3813435d98f76e6b0e46365, type: 3}
+    soundClip: {fileID: 8300000, guid: 424af5cba12495145bf1d80d22cee7fd, type: 3}
     hasAlreadyResetExtraOptions: 1
     showExtraOptions: 0
     volume: 100

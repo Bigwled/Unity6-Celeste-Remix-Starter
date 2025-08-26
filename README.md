@@ -1,13 +1,13 @@
-# **Replace this Project Name** - ReadMe File
+# **Celeste V2** - ReadMe File
 
-#### Author: *Replace this with your name*
+#### Author: *Oscar Baggaley :3*
 
-##### Modified: *2024-09-06*
+##### Modified: *2025-08-25*
 
 
 <br>
 
-**0. What is the link to your project on itch.io?**   
+**1. itch.io link for your game:**   
 
 > &nbsp;
 ><i>(Just paste the link here.)</i>   
@@ -15,15 +15,23 @@
  
 
 
-**1. What are the controls to your game? How do we play?**   
+**2. Description of your game:**   
 
 > &nbsp;
-><i>(art, music, etc. Just tell us where you got it, link it here)</i>   
+><i>(Give us a brief description of the changes you have made.)</i>   
 > &nbsp;
  
 
 
-**2. What creative additions did you make? How can we find them?**   
+**3. Are there any changes to the controls of your game? How do we play?**   
+
+> &nbsp;
+><i>(Did you add or remove any controls from the ones that were included?)</i>   
+> &nbsp;
+ 
+
+
+**4. What creative remix changes did you make? How can we find them?**   
 
 > &nbsp;
 ><i>(If you don't tell us how to experience them, we could easily miss them.)</i>   
@@ -31,7 +39,7 @@
  
 
 
-**3. Any assets used that you didn't create yourself?**   
+**5. Any assets used that you didn't create yourself?**   
 
 > &nbsp;
 ><i>(art, music, etc. Just tell us where you got it, link it here)</i>   
@@ -39,7 +47,7 @@
  
 
 
-**4. Did you receive help from anyone outside this class or from anyone in this class that is not in a group with you?**   
+**6. Did you receive help from anyone outside this class or from anyone in this class that is not in a group with you?**   
 
 > &nbsp;
 ><i>(list their names and what they helped with)</i>   
@@ -47,15 +55,7 @@
  
 
 
-**5. Did you get help from any AI Code Assistants?**   
-
-> &nbsp;
-><i>(Including things like Chat-GPT, Copilot, etc. Tell us which .cs file to look in for the citation and describe what you learned)</i>   
-> &nbsp;
- 
-
-
-**6. Did you get help from any online websites, videos, or tutorials?**   
+**7. Did you get help from any online websites, videos, or tutorials?**   
 
 > &nbsp;
 ><i>(link them here)</i>   
@@ -63,7 +63,15 @@
  
 
 
-**7. What trouble did you have with this project?**   
+**8. Did you get help from any Extractive AI Code or Art Assistants?**   
+
+> &nbsp;
+><i>(Including things like Chat-GPT, Copilot, etc. If it is code, tell us which .cs file to look in for the citation and describe what you learned)</i>   
+> &nbsp;
+ 
+
+
+**9. What trouble did you have with this project?**   
 
 > &nbsp;
 ><i>(Even if you didn't complete the project, you can still get partial credit if you tell us about why it's incomplete.)</i>   
@@ -71,7 +79,7 @@
  
 
 
-**8. Is there anything else we should know?**   
+**10. Is there anything else we should know?**   
 
 > &nbsp;
 >*No answer given.*
